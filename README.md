@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+**Make the AI judge laugh — one office joke, one line, under 200 characters.**
+
+[![Language](https://img.shields.io/badge/Language-Python?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://www.python.org/)
+[![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://github.com/kontenlaris-studio)
+
+</div>
+
 # judge-laugh-rama-01
 
 [![make.fun · u-rama-melon-make-the-ai-judge-laugh-302d0825](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
